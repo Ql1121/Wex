@@ -1,0 +1,52 @@
+{
+  "versions": {
+    "8.0.67": {
+      "contentView": "c35.c5",
+      "itemId": "m7g",
+      "iconId": "h5n",
+      "textId": "obc"
+    },
+    "8.0.68": {
+      "contentView": "q35.c5",
+      "itemId": "m7g",
+      "iconId": "h5n",
+      "textId": "obc"
+    },
+    "8.0.69": {
+      "contentView": "q35.c5",
+      "itemId": "m7g",
+      "iconId": "h5n",
+      "textId": "obc"
+    },
+    "8.0.70": {
+      "contentView": "u65.c5",
+      "itemId": "m7g",
+      "iconId": "h5n",
+      "textId": "obc"
+    },
+    "8.0.71": {
+      "contentView": "h85.c5",
+      "itemId": "m7g",
+      "iconId": "h5n",
+      "textId": "obc"
+    },
+    "8.0.72": {
+      "contentView": "o95.c5",
+      "itemId": "m7g",
+      "iconId": "h5n",
+      "textId": "obc"
+    },
+    "8.0.74": {
+      "contentView": "db5.c5",
+      "itemId": "m7g",
+      "iconId": "h5n",
+      "textId": "obc"
+    },
+    "8.0.76": {
+      "contentView": "kc5.c5",
+      "itemId": "m7g",
+      "iconId": "h5n",
+      "textId": "obc"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+wex.jks
+.backup/
+.gradle/
+build/
+.kotlin/
+local.properties

@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">WEX</string>
+    <string name="xposed_description">本剑不才 曾以此身破万军</string>
+    <string name="module_status_activated">模块已激活</string>
+    <string name="module_status_inactive">模块未激活</string>
+    <string name="lsposed_tag">LSPosed</string>
+    <string name="version_title">版本信息</string>
+    <string name="version_name">版本号: 1.0.2</string>
+    <string name="package_name">包名: wex.ui.core</string>
+    <string name="target_app">目标应用: 微信 (com.tencent.mm)</string>
+    <string name="usage_title">使用方式</string>
+    <string name="usage_step1">① 在 LSPosed / Xposed 管理器中启用本模块</string>
+    <string name="usage_step2">② 勾选作用域：微信 (com.tencent.mm)</string>
+    <string name="usage_step3">③ 打开微信，注入成功后自动弹出 Toast</string>
+    <string name="usage_hint">提示：打开微信即可看到「注入成功」吐司提示</string>
+</resources>
